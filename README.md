@@ -48,7 +48,3 @@ If you use this code for your research, please cite our [paper](https://www.rese
 }
 ```
 
-## Contact
-If you have any question, please contact zhouxinyi@data.syr.edu.
-
-
